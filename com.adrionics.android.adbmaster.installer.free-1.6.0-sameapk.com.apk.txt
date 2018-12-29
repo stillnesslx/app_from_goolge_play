@@ -1,0 +1,70 @@
+ADB Master
+https://play.google.com/store/apps/details?id=com.adrionics.android.adbmaster.installer.free
+
+Manage and monitor multiple Android devices using ADB (Android debug bridge). One click to switch adb to wireless, perform actions, commands or view and compare installed apps, running processes with cpu usage or browse logcat data for multiple selected devices… At the same time. Without root!
+
+Please consider buying the pro version if you use this tool.
+
+Quick start
+
+1) Make sure ADB is installed 
+- http://developer.android.com/sdk/
+OR
+- http://www.howtogeek.com/125769/how-to-install-and-use-abd-the-android-debug-bridge-utility/ 
+OR
+- http://www.xda-developers.com/android/15-second-adb-installer-gives-you-lightning-fast-adb-fastboot-and-driver-installation/
+
+2) After installing the app, copy the exported ADB Master folder from your Android's SD card to the computer.
+
+3) In the 'ADB-Master' folder run the 'ADB-Master.jar' file by double clicking (requires Java to be installed). 
+Mac users: If you get an error that the jar file is corrupt or cannot be opened, try right clicking it and select open at least once to allow the unsigned jar to run.
+
+4) Set the ADB location in the “Control” tab of ADB Master by browsing to the folder containing “adb”. The background will turn green when the correct folder is selected.
+
+5) For the Android devices to appear in the list, enable "USB Debugging" and connect them to the computer with USB.
+
+6) Select one or more devices from the list of USB or WiFi connected devices to perform actions or view information on them...
+
+Device lists
+
+At the top of the application are the device lists. These lists provide a way to list and select devices to work with.
+
+There are two lists: 
+- USB connected devices with a button to switch the selected devices to WiFi (tcpip) mode. This will install “Helper.apk” to display adb state on the device and enable the device to be discovered by ADB Master.
+- WiFi connected devices which has a button to switch the selected devices to USB mode. This will uninstall “Helper.apk” and set the device back to USB mode.
+
+
+Control tab
+
+This section allows you to perform actions or commands on all selected devices.
+
+- Shutdown, reboot, reboot to recovery or reboot to bootloader by selecting the devices and then pressing the desired button. 
+- Press power, back, home or volume up and down buttons on all selected devices at the same time. 
+- “Identify” a device installs and runs a small utility to wake the device and display the same information that appears in the device list as well as the IP address.
+- Execute any custom ADB command in the ADB Command box and hit enter or press “Execute” to run that command on all selected devices. NOTE: This function treats spaces as command separators so it may not work for all possible adb commands at the moment. View the results of the command in the “ADB Log” tab.
+
+Applications tab
+
+This section allows you to compare and manage applications (packages) on all selected devices.
+- Install an APK from your pc
+- Enable (requires root and su)
+- Disable (requires root and su)
+- Uninstall multiple apps on all selected devices with one click.
+
+App listing color key:
+- Green: Installed and enabled on all selected devices
+- Black: Installed and enabled on some selected devices
+- Orange: Installed on some or all devices, but is disabled on one or more
+- Red: Installed on some or all devices but is disabled on all installed instances
+
+Processes tab
+
+This section uses the command “adb shell top -m 20” to list the top 20 processes running on the device. It lists all selected devices in one view making it easy to monitor multiple devices at the same time. Future features include the ability to terminate processes and use custom top commands.
+
+Logcat tab
+
+View live Logcat data from all selected devices in one list making it easy to monitor multiple devices at the same time. Future features will enhance this section with the use of filters and colors.
+
+ADB Log tab
+
+View a log of commands executed by ADB Master. It logs the device, commands and their responses.

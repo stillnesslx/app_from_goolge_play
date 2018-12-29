@@ -1,0 +1,18 @@
+MathStudio Express
+https://play.google.com/store/apps/details?id=com.PomegranateApps.MathStudioExpress
+
+Whether you need a simple calculator to do your finances or a replacement for your TI graphing calculator, MathStudio Express is a full featured scientific calculator with hundreds of mathematical functions that cover Basic Math, Pre-Algebra, Algebra, Trigonometry, Precalculus, Calculus, Statistics, Finite Math, Linear Algebra and Statistics.
+
+"MathStudio is a natural for students and for engineers who occasionally need a comprehensive math program but don't need the full horsepower and daunting complexity of Mathematica or Maple. It's a huge leap from the usual calculator program for tablets and smartphones." - IEEE Spectrum Review by Kenneth R. Foster
+http://spectrum.ieee.org/computing/software/review-mathstudio
+
+MathStudio Express is an indispensable tool for students, teachers and engineers. It provides features comparable to TI calculators but with a modern and intuitive interface.
+
+Graph equations with speed and ease you never thought was possible! Move, rotate and pinch function, parametric, polar, implicit, contour, spherical, cylindrical, vector fields, fractals and image plots with amazing speed and accuracy. Use the T variable to create animated plots that graph in space and time!
+
+Plot lists of numerical data in scatter, histograms, box and probability plots. MathStudio even includes an advanced regression analysis package, choose from several regression functions or create your own.
+
+MathStudio Express is powered by that fastest proprietary computer algebra system available on iOS that beautifully typesets your answers. Got a tough algebra equation to solve or polynomial to factor? Solve quadratic equations, systems of equations, limits, derivates, integrals, differential equations and much more. Create scripts in MathStudio's powerful programming language that supports variables, loops and recursion.
+
+Are you a user from Mathematica or MATLAB? MathStudio Express offers much of the same functionality. For more help getting starting using MathStudio Express visit our forums.
+http://discuss.mathstud.io

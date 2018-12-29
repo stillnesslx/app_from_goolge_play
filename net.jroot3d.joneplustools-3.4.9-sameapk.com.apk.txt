@@ -1,0 +1,19 @@
+jOnePlus Tools [adb/root]
+
+https://play.google.com/store/apps/details?id=net.jroot3d.joneplustools
+
+Latest OOS Oreo beta is unstable. Some bugs present on system level. 
+
+!!!TESTED ONLY ON Oxygen OS 4+!!!
+
+Application allows to edit quick tiles count without root
+Switches to monochrome mode from application or QS tile
+Enable Call recorder in stock Phone app
+
+Shortcuts for hidden Oxygen OS settings (doze/auto-launch)
+
+***ROOT***
+Switches calibration of display (DCI-P3 present)
+Switches mobile data from application or QS tile (experimental)
+Switches Channel Bonding Mode 2.4GHz (experimental)
+Switches color for Quick Settings tiles

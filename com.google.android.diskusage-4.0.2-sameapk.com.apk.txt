@@ -1,0 +1,18 @@
+DiskUsage
+https://play.google.com/store/apps/details?id=com.google.android.diskusage
+
+** OnePlus3 users, please ask the developers to fix their OS: http://goo.gl/r05VBc **
+
+DiskUsage provides a way to find files and directories on storage card which consume a lot of space.
+
+Displays diagram with directories/subdirectories proportional to their size.
+
+Press MENU for actions.
+
+Integrates with OI FileManager and Solid Explorer.
+
+If program fails or gives you out of memory error message - please contact me. Thanks.
+
+Source available under free license (GPL-2)
+
+Keywords: visual space on internal storage flash sdcard memory file directory folder sd xdu xdiskusage spacemonger windirstat baobab storage space cleaner

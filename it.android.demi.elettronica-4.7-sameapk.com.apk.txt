@@ -1,0 +1,43 @@
+Electrodroid
+https://play.google.com/store/apps/details?id=it.android.demi.elettronica
+
+ElectroDroid 是一个简单而强大的应用，包含了大量电子类工具和参考资料。  
+这是包含广告的免费版；您可以通过购买专业版来支持我们的开发，去除广告的同时还可以获得更多功能。  
+ 
+功能如下：  
+• 电阻色环（码）解码 (3-6 环)； 
+• SMD电阻代码； 
+• 电感色环（码）解码； 
+• 欧姆定律计算器； 
+• 电抗计算器； 
+• 分压器计算器； 
+• 电阻比值、电阻值/电阻串联/电阻并联计算器； 
+• 电容充电计算器； 
+• 运算放大器计算器； 
+• LED（发光二极管）限流电阻计算器；  
+• 滑动变阻器/LM317计算器；  
+• 散热计算器；  
+• 电池寿命计算器；  
+• 电感设计工具；  
+• 电压降计算器； 
+• PCB走线宽度计算器；   
+• 简单滤波器计算器；   
+• NE555计算器； 
+• 功率计算器 
+• 分贝转换器 
+• 频率转换器 
+• 模数转换器 
+• 端口引脚定义 （USB、串口、并口、以太网、RJ、SCART、DVI、HDMI、S端子、VGA、VESA、Display Port、火线、Jack、XLR/DMX、RCA、ATX Power, PC Molex, EIDE, SATA, PS/2-AT, MIDI/Game port, Apple 30-pin, PDMI, OBD-II, 25-pair phone cable color code, Color Code for Fiber Optic Cables）；  
+• 资料（物质电阻率表；标准电阻、标准电容表；电容标记代码表；AWG（美标线规）, SWG（标准线规）规格表；载流量表；符号和简写表；电路原理图符号表；国际单位制词头；电池信息； 布尔逻辑门和代数定理；7400信息及接口定义；ASCII 码；电池列表, 78xx IC, ChipDB IC 引脚定义, 开关信息, 分贝表, PIC ICSP/AVR ISP, SMD 封装尺寸, 无线电频率）； 
+• 所有计算器均支持EIA（美国电子工业协会）标准电阻系列；  
+...更多功能，敬请期待！ 
+ 
+本应用亦可通过安装插件扩展功能（如：PIC和AVR微控制器数据库, 模拟器, parts search） 
+ 
+如果您觉得这个软件不错，请在Play Store中给出宝贵的评价并且考虑购买完整版来支持我们的开发工作。 
+Electroddroid PRO 链接: https://play.google.com/store/apps/details?id=it.android.demi.elettronica.pro 
+ 
+FAQ（常见问题）和完整的更新日志，请访问 http://electrodroid.it 
+
+
+The Android robot in the logo is modified from work created and shared by Google and used according to terms described in the CC BY 3.0 License.
